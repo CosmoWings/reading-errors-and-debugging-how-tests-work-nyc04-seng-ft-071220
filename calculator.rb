@@ -3,3 +3,6 @@ first_number = 2
 second_number = 2 
 
 sum = first_numer + second_number
+sum = first_numer + second_number
+sum = first_numer + second_number
+sum = first_numer + second_number
